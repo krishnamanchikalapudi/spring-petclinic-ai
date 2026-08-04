@@ -31,7 +31,6 @@ spring.ai.ollama.chat.options.temperature=0.99
 
 ### references
 - https://docs.spring.io/spring-ai/reference/api/chat/ollama-chat.html
-- 
 
 # Steps to run locally
 1. Run the application: ./mvnw spring-boot:run
