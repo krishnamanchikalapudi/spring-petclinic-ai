@@ -26,8 +26,12 @@
 ```properties
 spring.ai.ollama.base-url=http://localhost:11434
 spring.ai.ollama.chat.options.model=qwen3.5:0.8b-mlx
-spring.ai.ollama.chat.options.temperature=0.7
+spring.ai.ollama.chat.options.temperature=0.99
 ```
+
+### references
+- https://docs.spring.io/spring-ai/reference/api/chat/ollama-chat.html
+- 
 
 # Steps to run locally
 1. Run the application: ./mvnw spring-boot:run
